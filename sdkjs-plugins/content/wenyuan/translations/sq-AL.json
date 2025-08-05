@@ -1,0 +1,17 @@
+{
+    "setting": "cilësime",
+    "Set Your WenYuan API Key first": "Vendosni çelësin tuaj të API WenYuan së pari",
+    "WenYuan Copilot": "WenYuan Copilot",
+    "generate": "Gjeneroni",
+    "summarize": "përmbledhje",
+    "explain": "shpjegoni",
+    "translate": "përktheni",
+    "translate to English": "përktheni në anglisht",
+    "translate to Chinese": "përktheni në kinezisht",
+    "translate to Russian": "përktheni në rusisht",
+    "translate to German": "përktheni në gjermanisht",
+    "translate to French": "përktheni në frengjisht",
+    "translate to Spanish": "përktheni në spanjisht",
+    "clear chat history": "pastroni historinë e bisedës",
+    "Choose a model": "Zgjidhni modelin"
+}
